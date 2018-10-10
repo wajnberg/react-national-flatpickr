@@ -1,5 +1,5 @@
 
-import 'flatpickr/dist/themes/material_green.css'
+import 'national-flatpickr/dist/themes/material_green.css'
 
 import React, { Component } from 'react'
 import { render } from 'react-dom'

@@ -1,7 +1,7 @@
 {
-  "name": "react-flatpickr",
-  "version": "3.6.4",
-  "description": "flatpickr for React",
+  "name": "react-national-flatpickr",
+  "version": "1.0.0",
+  "description": "flatpickr with national calendar for React",
   "main": "build/index.js",
   "scripts": {
     "example": "npm run build && webpack --config example/webpack.js",
@@ -11,7 +11,7 @@
     "prepublishOnly": "npm run build",
     "test": "echo todo"
   },
-  "repository": "coderhaoxin/react-flatpickr",
+  "repository": "wajnberg/react-national-flatpickr",
   "keywords": [
     "flatpickr",
     "react"
@@ -20,10 +20,10 @@
     "build/",
     "lib/"
   ],
-  "author": "haoxin",
+  "author": "wajnberg",
   "license": "MIT",
   "dependencies": {
-    "flatpickr": "^4.3.2",
+    "national-flatpickr": "^1.0.1",
     "prop-types": "^15.5.10"
   },
   "devDependencies": {
