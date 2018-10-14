@@ -23,7 +23,7 @@
   "author": "wajnberg",
   "license": "MIT",
   "dependencies": {
-    "national-flatpickr": "^1.0.1",
+    "national-flatpickr": "^1.0.2",
     "prop-types": "^15.5.10"
   },
   "devDependencies": {
