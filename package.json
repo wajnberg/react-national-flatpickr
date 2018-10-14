@@ -1,6 +1,6 @@
 {
   "name": "react-national-flatpickr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "flatpickr with national calendar for React",
   "main": "build/index.js",
   "scripts": {
