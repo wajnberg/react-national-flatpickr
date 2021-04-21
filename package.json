@@ -1,6 +1,6 @@
 {
   "name": "react-national-flatpickr",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "flatpickr with national calendar for React",
   "main": "build/index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   "author": "wajnberg",
   "license": "MIT",
   "dependencies": {
-    "national-flatpickr": "^1.0.8",
+    "national-flatpickr": "^1.0.9",
     "prop-types": "^15.5.10"
   },
   "devDependencies": {
